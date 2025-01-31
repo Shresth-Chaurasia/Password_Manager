@@ -1,2 +1,2 @@
 # PASSWORD MANAGER
-## An app that allows user to manage their passwords efficiently
+### An app that allows user to manage their passwords efficiently
