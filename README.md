@@ -1,2 +1,3 @@
 # PASSWORD MANAGER
-### An app that allows user to manage their passwords efficiently
+** An app that allow users to manage their passwords efficiently. And also allow them to store, save and use their passwords seamlessly. **
+
