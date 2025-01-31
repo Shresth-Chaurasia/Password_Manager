@@ -6,3 +6,7 @@
 3.	Managed the backend entirely with Express and MongoDB, handling data storage, retrieval, and user management efficiently.
 4.	There are two versions of application, one stores the passwords in Local Storage and other stores it in the Mongo Database.
 ### Tools Used:
++ React.js
++ Express.js
++ MongoDB
++ Tailwind
